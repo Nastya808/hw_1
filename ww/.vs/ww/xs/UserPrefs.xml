@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{233F8C2C-E6FD-40A6-A956-5CEED8BCDE91}|Default">
+  <MonoDevelop.Ide.ItemProperties.ww PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="ww/package.json">
+    <Files>
+      <File FileName="ww/package.json" Line="19" Column="1" />
+      <File FileName="ww/tsconfig.json" />
+      <File FileName="ww/package-lock.json" />
+      <File FileName="ww/node_modules/.package-lock.json" />
+      <File FileName="ww/src/index.js" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ww" expanded="True">
+            <Node name="ww" expanded="True">
+              <Node name="src" expanded="True" />
+              <Node name="package.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

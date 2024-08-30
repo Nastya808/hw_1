@@ -1,0 +1,15 @@
+/Users/nastyaergenova/Projects/ww/ww/bin/Debug/net7.0/ww
+/Users/nastyaergenova/Projects/ww/ww/bin/Debug/net7.0/ww.deps.json
+/Users/nastyaergenova/Projects/ww/ww/bin/Debug/net7.0/ww.runtimeconfig.json
+/Users/nastyaergenova/Projects/ww/ww/bin/Debug/net7.0/ww.dll
+/Users/nastyaergenova/Projects/ww/ww/bin/Debug/net7.0/ww.pdb
+/Users/nastyaergenova/Projects/ww/ww/obj/Debug/net7.0/ww.csproj.AssemblyReference.cache
+/Users/nastyaergenova/Projects/ww/ww/obj/Debug/net7.0/ww.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nastyaergenova/Projects/ww/ww/obj/Debug/net7.0/ww.AssemblyInfoInputs.cache
+/Users/nastyaergenova/Projects/ww/ww/obj/Debug/net7.0/ww.AssemblyInfo.cs
+/Users/nastyaergenova/Projects/ww/ww/obj/Debug/net7.0/ww.csproj.CoreCompileInputs.cache
+/Users/nastyaergenova/Projects/ww/ww/obj/Debug/net7.0/ww.dll
+/Users/nastyaergenova/Projects/ww/ww/obj/Debug/net7.0/refint/ww.dll
+/Users/nastyaergenova/Projects/ww/ww/obj/Debug/net7.0/ww.pdb
+/Users/nastyaergenova/Projects/ww/ww/obj/Debug/net7.0/ww.genruntimeconfig.cache
+/Users/nastyaergenova/Projects/ww/ww/obj/Debug/net7.0/ref/ww.dll
